@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115613496580",
+    "project_id": "fir-flutter-cramos",
+    "storage_bucket": "fir-flutter-cramos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115613496580:android:b49111b116fc47bba5cc51",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115613496580-710e799i6uvmqvsu26oubepmfcgd6ue0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6v4nI3ObJ1TAkQ9jSdALmrjYvsC145Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115613496580-710e799i6uvmqvsu26oubepmfcgd6ue0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
